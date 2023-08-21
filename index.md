@@ -7,15 +7,35 @@ Jerusalem, Israel ⬩ [054-897-5020](tel:+972548975020) ⬩ yechielworen@gmail.c
 Highly skilled Penetration Testing Team-Lead with 2 years of experience in the cybersecurity field. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
 
 ## Education & Certifications
-- Certified cybersecurity professional by TripleP
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- eWPT (eLearnSecurity Web Application Penetration Tester)
+<img style="border-radius: 50%; width: 40px; height: 40px; object-fit: cover;" src="https://static.wixstatic.com/media/9347c4_563a828677fc402d893a07cabf3ad93f~mv2.png"> <img style="width: 40px; height: 40px; object-fit: cover;" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png"> <img style="width: 40px; height: 40px; object-fit: cover;" src="https://elearnsecurity.com/wp-content/uploads/eWPTv1.png">
+-  TripleP SIEM/SOC analyst
+-  eLearnSecurity Junior Penetration Tester
+-  eLearnSecurity Web Application Penetration Tester
 
 ## Skills
-- Programming Languages: Python, Bash, PowerShell, JavaScript
-- Penetration Testing Tools: Burp Suite, Nmap, Metasploit, CrackMapExec, Gophish
-- Tools and techinques: Linux, Docker, Pivoting/Tunnling
-- Penetration Testing Types: Web Application, Network, Mobile Application, Physical Devices
+- Programming Languages: 
+    - Python
+    - Bash
+    - PowerShell 
+    - JavaScript
+- Penetration Testing Tools and frameworks: 
+    - Burp Suite
+    - Nmap
+    - Metasploit
+    - CrackMapExec
+    - Gophish
+    - and more...
+- Tools and techinques: 
+    - Active Directory
+    - Linux
+    - Docker
+    - Pivoting/Tunnling
+- Penetration Testing Types:
+    - Web Application
+    - Network 
+    - Mobile Application
+    - Physical / embedded Devices
+    - Phishing 
 
 ## Experience
 #### Penetration tester / Penetration Testing Lead, CyberSafe, 01.01.2022-Present 
@@ -29,6 +49,6 @@ Highly skilled Penetration Testing Team-Lead with 2 years of experience in the c
 - Wrote and modified custom tools and contributed to the community. 
 
 ## Links
-[![Website](https://i.imgur.com/lHEUqlK.png)](https://yehciel.xyz) - [![Github](https://github.githubassets.com/favicons/favicon.png)](https://github.com/yechielw) - [![LinkedIn](https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/yechielw/) - [![HackTheBox](https://app.hackthebox.com/images/HTB-favicon/favicon-32x32.png)](https://app.hackthebox.com/profile/488213)
+[![Website](https://i.imgur.com/lHEUqlK.png)](https://yehciel.xyz)  [![Github](https://github.githubassets.com/favicons/favicon.png)](https://github.com/yechielw) [![LinkedIn](https://static.licdn.com/sc/h/8s162nmbcnfkg7a0k8nq9wwqo)](https://www.linkedin.com/in/yechielw/)  [![HackTheBox](https://app.hackthebox.com/images/HTB-favicon/favicon-32x32.png)](https://app.hackthebox.com/profile/488213)
 ## References
 Available upon request
