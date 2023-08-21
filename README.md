@@ -7,10 +7,6 @@ Jerusalem, Israel ⬩ [054-897-5020](tel:+972548975020) ⬩ yechielworen@gmail.c
 
 ### <img style="border-radius: 50%; width: 50px; height: 50px; object-fit: cover;" src="https://gcdnb.pbrd.co/images/bUHqsULEu8NR.jpg?o=1">
 
-- **Location:** Jerusalem, Israel
-- **Phone:** [054-897-5020](tel:+972548975020)
-- **Email:** yechielworen@gmail.com
-	
 ## Professional Summary
 Highly skilled Penetration Testing Team-Lead with 2 years of experience in the cybersecurity field. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
 
