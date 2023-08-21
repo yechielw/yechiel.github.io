@@ -1,5 +1,3 @@
-# Yechiel Worenklein ⬩ Penetration Tester
-Jerusalem, Israel ⬩ [054-897-5020](tel:+972548975020) ⬩ yechielworen@gmail.com
 
 ---
 ### <img style="border-radius: 50%; width: 50px; height: 50px; object-fit: cover;" src="https://gcdnb.pbrd.co/images/bUHqsULEu8NR.jpg?o=1">

@@ -1,5 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Yechiel WOrenklein CV]
-description: [ ]
+title: Yechiel WOrenklein ⬩ Penetration Tester
+description: Jerusalem, Israel ⬩ [054-897-5020](tel:+972548975020) ⬩ yechielworen@gmail.com
+github:
+  is_project_page: false
