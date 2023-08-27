@@ -47,10 +47,10 @@ Highly skilled Penetration Testing Team-Lead with 2 years of experience in the c
 
 ## Experience
 
+
 ### Penetration tester
 
 **[CyberSafe](https://cybersafe.co.il/) | Jerusalem,Israel | January 2022 -Present** 
-
 - Led a team of penetration testers to identify vulnerabilities in client systems and applications.
 - Conducted comprehensive penetration tests on web applications, networks, mobile apps, and physical devices.
 - Utilized tools like Burp Suite, Nmap, Metasploit, Bloodhound and CrackMapExec to simulate real-world attacks and assess security posture.
