@@ -8,7 +8,7 @@
   </style>
 # Yechiel Worenklein ⬩ Penetration Tester
 Jerusalem, Israel ⬩ [hacker@proxiedmail.com](mailto:hacker@proxiedmail.com)
-### <img style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" src="https://media.licdn.com/dms/image/D4D03AQEk6JtsxC7h-A/profile-displayphoto-shrink_800_800/0/1678093527604?e=1698278400&v=beta&t=Jox8FP1s0Ys6K93Z84NuOXls8rs84V87xmhEnqwBuMQ">
+### <img style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" src="yechielw.jpeg">
 
 ## Professional Summary
 Highly skilled Penetration Testing Team-Lead with 2 years of experience in the cybersecurity field. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
