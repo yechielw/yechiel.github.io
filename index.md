@@ -22,7 +22,9 @@ Highly skilled Penetration Testing Team-Lead with 3 years of experience in the I
 
 ## Skills
 - Programming Languages:
-  ![](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433)
+-   
+![](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433)
+  
   - Python
   - Bash
   - PowerShell
