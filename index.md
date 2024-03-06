@@ -1,39 +1,43 @@
 <style>
     img {
-      width: 40px;
-      height: 40px;
+      width: 30px;
+      height: 30px;
       object-fit: cover;
       border-radius: 50%;
     }
   </style>
+  
 # Yechiel Worenklein ⬩ Penetration Tester
-Jerusalem, Israel ⬩ [hacker@proxiedmail.com](mailto:hacker@proxiedmail.com)
+Jerusalem, Israel ⬩ [yechielworen@gmail.com](mailto:yechielworen@gmail.com)
 ### <img style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" src="yechielw.jpeg">
 
 ## Professional Summary
-Highly skilled Penetration Testing Team-Lead with 2 years of experience in the cybersecurity field. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
+Highly skilled Penetration Testing Team-Lead with 3 years of experience in the IT and cybersecurity fields. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
 
-## Education & Certifications ![](https://static.wixstatic.com/media/9347c4_563a828677fc402d893a07cabf3ad93f~mv2.png) ![](https://elearnsecurity.com/wp-content/uploads/eJPT.png) ![](https://elearnsecurity.com/wp-content/uploads/eWPTv1.png)
--  TripleP SIEM/SOC analyst
--  eLearnSecurity Junior Penetration Tester
--  eLearnSecurity Web Application Penetration Tester
+## Education & Certifications 
+![](https://static.wixstatic.com/media/9347c4_563a828677fc402d893a07cabf3ad93f~mv2.png) ![](https://elearnsecurity.com/wp-content/uploads/eJPT.png) ![](https://elearnsecurity.com/wp-content/uploads/eWPTv1.png)
+-  TripleP SIEM/SOC analyst [Oct 2021]
+-  eLearnSecurity Junior Penetration Tester [Feb 2022]
+-  eLearnSecurity Web Application Penetration Tester [Nov 2023]
 
 ## Skills
-- Programming Languages: ![](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433)
+- Programming Languages:
+  ![](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433)
   - Python
   - Bash
   - PowerShell
   - JavaScript
   
 - Penetration Testing Tools and frameworks: 
-  - Burp Suite
+  - Burp Suite / Caido
   - Nmap
-  - Metasploit
-  - CrackMapExec
+  - Metasploit Framework
+  - NetExec (Ex. CrackMapExec)
   - Gophish
+  - Frida
   - and more...
 
-- Tools and techinques: 
+- Tools and technologies: 
   - Active Directory
   - Linux
   - Docker
@@ -43,21 +47,23 @@ Highly skilled Penetration Testing Team-Lead with 2 years of experience in the c
   - Web Application
   - Network 
   - Mobile Application
-  - Physical / embedded DevicesPhishing 
+  - Physical / embedded Devices
 
-## Experience
+  ## Experience
 
 
 ### Penetration tester
 
-**[CyberSafe](https://cybersafe.co.il/) | Jerusalem,Israel | January 2022 -Present** 
+**[CyberSafe](https://cybersafe.co.il/) | Jerusalem,Israel | January 2022 - Present** 
 - Led a team of penetration testers to identify vulnerabilities in client systems and applications.
 - Conducted comprehensive penetration tests on web applications, networks, mobile apps, and physical devices.
-- Utilized tools like Burp Suite, Nmap, Metasploit, Bloodhound and CrackMapExec to simulate real-world attacks and assess security posture.
+- Used tools like Burp Suite, Nmap, Metasploit, Bloodhound, and NetExec to simulate real-world attacks and assess security posture.
 - Collaborated with clients to understand their specific security requirements and delivered tailored penetration testing services.
-- Prepared detailed penetration testing reports and presented findings to stakeholders, providing actionable recommendations for remediation.
-- Discovered and repored new vulerabilites to vendors and assigned new CVE's.
-- Bug Bounty: Received multiple bounties for vulnerabilities disclosed to public companies.
+- Prepared detailed penetration testing reports and presented findings to the stakeholders, providing actionable recommendations for remediation.
+
+#### Noteable achievements
+- Discovered and repored new vulnerabilities to vendors and assigned new CVEs.
+- Bug Bounty: Received multiple bounties for vulnerabilities disclosed to various  companies.
 - Wrote and modified custom tools and contributed to the community. 
 
 ### Automation specialist / Compliance manager
@@ -68,7 +74,7 @@ Highly skilled Penetration Testing Team-Lead with 2 years of experience in the c
 
 ### IT Support Technician
 
-**[HCC](https://github.com/hcc-israel) | Jerusalem,Israel | Mar - May 2021**
+**[HCC](https://github.com/hcc-israel) | Jerusalem, Israel | Mar - May 2021**
 - As a help desk / IT specialist I was incharged on a fleet to tens of workstations and servers, making sure they are operating correctly and dealing with customers technical issues.
 
 
