@@ -12,17 +12,16 @@ Highly skilled Penetration Testing Team-Lead with 3 years of experience in the I
 -  eLearnSecurity Web Application Penetration Tester [Nov 2023]
 
 ## Skills
-- Programming/Scripting Languages:
-  Python, Bash, PowerShell, JavaScript
+**Programming/Scripting Languages:**
+- Python, Bash, PowerShell, JavaScript
   
-- Penetration Testing Tools and frameworks: 
-  BurpSuite/Caido, Nmap, Metasploit Framework, NetExec (Ex. CrackMapExec), Gophish, Frida, and more...
+**Penetration Testing Tools and frameworks:**
+- BurpSuite/Caido, Nmap, Metasploit Framework, NetExec (Ex. CrackMapExec), Gophish, Frida, and more...
  
-- Penetration Testing Types:
-  Web Application, Network, Mobile Application, Physical / embedded Devices
+**Penetration Testing Types:**
+- Web Application, Network, Mobile Application, Physical / embedded Devices
 
-  ## Experience
-
+## Experience
 
 ### Penetration tester
 
