@@ -1,52 +1,25 @@
-<style>
-    img {
-      width: 30px;
-      height: 30px;
-      object-fit: cover;
-      border-radius: 50%;
-    }
-  </style>
+
   
 # Yechiel Worenklein ⬩ Penetration Tester
-Jerusalem, Israel ⬩ [yechielworen@gmail.com](mailto:yechielworen@gmail.com)
-### <img style="border-radius: 50%; width: 60px; height: 60px; object-fit: cover;" src="yechielw.jpeg">
+Jerusalem/London ⬩ [yechielworen@gmail.com](mailto:yechielworen@gmail.com)
 
 ## Professional Summary
 Highly skilled Penetration Testing Team-Lead with 3 years of experience in the IT and cybersecurity fields. Proficient in conducting various types of penetration testing, including web application testing, network testing, mobile application testing, and physical device assessments. Adept at using a variety of penetration testing tools and programming languages to identify and address vulnerabilities.
 
 ## Education & Certifications 
-![](https://static.wixstatic.com/media/9347c4_563a828677fc402d893a07cabf3ad93f~mv2.png) ![](https://elearnsecurity.com/wp-content/uploads/eJPT.png) ![](https://elearnsecurity.com/wp-content/uploads/eWPTv1.png)
 -  TripleP SIEM/SOC analyst [Oct 2021]
 -  eLearnSecurity Junior Penetration Tester [Feb 2022]
 -  eLearnSecurity Web Application Penetration Tester [Nov 2023]
 
 ## Skills
-- Programming Languages:
-  - Python
-  - Bash
-  - PowerShell
-  - JavaScript
+- Programming/Scripting Languages:
+  Python, Bash, PowerShell, JavaScript
   
 - Penetration Testing Tools and frameworks: 
-  - Burp Suite / Caido
-  - Nmap
-  - Metasploit Framework
-  - NetExec (Ex. CrackMapExec)
-  - Gophish
-  - Frida
-  - and more...
-
-- Tools and technologies: 
-  - Active Directory
-  - Linux
-  - Docker
-  - Pivoting/Tunnling
+  BurpSuite/Caido, Nmap, Metasploit Framework, NetExec (Ex. CrackMapExec), Gophish, Frida, and more...
  
 - Penetration Testing Types:
-  - Web Application
-  - Network 
-  - Mobile Application
-  - Physical / embedded Devices
+  Web Application, Network, Mobile Application, Physical / embedded Devices
 
   ## Experience
 
